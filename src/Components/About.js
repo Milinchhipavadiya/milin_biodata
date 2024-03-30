@@ -68,7 +68,7 @@ class About extends Component {
                      <tr>
                         <td>Education</td>
                         <td style={cssForTable} >:-</td>
-                        <td>Bachelor of Technology</td>
+                        <td>Bachelor of Engineering in Computer Science</td>
                      </tr>
                      <tr>
                         <td>Pursuing Education</td>
