@@ -1,0 +1,236 @@
+{
+  "main": {
+    "name": "Milin Chhipavadiya",
+    "occupation": " Full Stack Software Engineer",
+    "description": " currently  ",
+    "employer": " freelancing and honing",
+    "jobDescription": "my skills in crafting seamless digital experiences. With a penchant for precision, I delve into every project, pushing boundaries, and ensuring excellence in every line of code. ",
+    "image": "profile_pic.jpg",
+    "bio": "I am an athlete at heart, with an entrepreneurial spirit, a knack for online security, and a passion for coding. Born in a small town in Northern BC, I made my move to Victoria where I work as a full stack developer for Instant Domain Search, alongside my many ongoing projects. I love to create and tend to keep a few too many projects on the go at a time. Outside of work I am an avid motorcyclist, soccer player and Muay Thai fighter. I love to travel and lead a fairly nomadic lifestyle. I built much of my early portfolio from beaches of Southeast Asia and dream of being able to take my work with me while travelling the world.",
+    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "milinchhipavadiya@gmail.com",
+    "phone": "+91 9512699622",
+    "address": {
+      "street": "A-84, Hansh Society, Varachha Road,",
+      "city": "Surat,",
+      "state": "Gujarat",
+      "zip": "395006"
+    },
+    "website": "https://milin-resume.vercel.app/",
+    "resumedownload": "https://drive.google.com/file/d/1WvyjmDcvXrtpPBfj-bGDoFB6VD-kxqfF/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100010024489322&mibextid=ZbWKwL",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/milin-chhipavadiya-59374a23a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/milin_3474/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "stack-overflow",
+        "url": "https://stackoverflow.com/users/23724629/milin-chhipavadiya",
+        "className": "fa fa-stack-overflow"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Milinchhipavadiya",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education": [
+      {
+        "school": "ECOLE SUPÉRIEURE DE COMMERCE ET DE COMMUNICATION, PARIS,FRANCE",
+        "degree": "Artificial Intelligence and Big Data Management",
+        "graduated": "May 2024",
+        "description": "Joining soon......"
+      },
+      {
+        "school": "AD-Tech IT & Design Institute",
+        "degree": "Full-stack developers as well as Designing Courses",
+        "graduated": "June 2022",
+        "description": "In my journey as a Full-stack developer and Designer, I embarked on a comprehensive learning path that encompassed a diverse array of skills and technologies. Through dedicated courses, I acquired proficiency in Adobe Photoshop, Adobe Illustrator, and Adobe XD for graphic design and UI/UX prototyping. Additionally, I delved into web development technologies such as HTML, CSS, JavaScript, and Bootstrap, mastering the art of crafting visually appealing and responsive user interfaces. Building upon this foundation, I further expanded my skills with frameworks like React.js and libraries like React-Bootstrap, enabling me to develop dynamic and interactive frontend applications. On the backend, I honed my expertise in Node.js and explored the power of SCSS for enhanced styling capabilities. This holistic approach to learning equipped me with the versatility and creativity to excel both as a developer and a designer, allowing me to seamlessly integrate aesthetics with functionality in my projects."
+      },
+      {
+        "school": "Gujarat Technological University",
+        "degree": "Bachelor of Engineering in Computer Science",
+        "graduated": "May 2021",
+        "description": "As a Bachelor of Engineering in Computer Science graduate, I've had the privilege of immersing myself in a multitude of programming languages. From foundational languages like C, C++, and Java to versatile web development languages like HTML, CSS, and JavaScript, my educational journey has been a rich tapestry of linguistic exploration. Additionally, I've delved into specialized languages such as Python for data analysis and machine learning, SQL for database management, and PHP for server-side scripting. This diverse linguistic repertoire equips me with the versatility and adaptability necessary to tackle a wide array of technological challenges with confidence and proficiency."
+      },
+      {
+        "school": "P P Savani Vidhya Bhavan",
+        "degree": "12th",
+        "graduated": "March 2017",
+        "description": "In my 12th grade, I focused on solidifying my foundational understanding of computer science fundamentals. I delved into key concepts such as data structures, algorithms, and object-oriented programming principles."
+      },
+      {
+        "school": "P P Savani Vidhya Bhavan",
+        "degree": "10th",
+        "graduated": "10th",
+        "description": "During my 10th grade, I embarked on a comprehensive educational journey encompassing a wide range of subjects. From mathematics and science to languages and social studies, I delved into various disciplines to gain a well-rounded understanding of the world. This foundational year equipped me with essential knowledge and skills that serve as the bedrock of my academic and intellectual growth. It instilled in me a curiosity to explore diverse fields of study and laid the groundwork for my future academic pursuits and career aspirations."
+      }
+    ],
+    "work": [
+      {
+        "company": "Instant Domain Search",
+        "title": "Full Stack Software Engineer",
+        "years": "October 2020 - Present",
+        "description": "At Instant Domain Search we help you find the perfect domain name faster than anywhere else. I was brought on as an early hire here to help take an application that had seen enormous and steady organic growth and give it the boost it deserved. \n\nAs a member of a very small but talented team, I work across the gamut of our stack. This currently consists of a React/Typescript frontend (recently migrated to Next.js), a new combination of Golang and Rust Servers, and an iOS app (soon to be React Native)."
+      },
+      {
+        "company": "Shop Your Own Mortgage",
+        "title": "Software Security Engineer",
+        "years": "August 2017 - October 2020",
+        "description": "For most of my time at Shop Your Own Mortgage, I have worked as a Full Stack Software Engineer. Here I have had the chance to dig in and get my hands dirty with all parts of our software. I have worked with our legacy PHP backend, as well as built new node-based servers for new products. As well, I led the development of V2 of our mobile application written in React Native. I have worked extensively with React/Redux as well as with react hooks. \n\nMore recently, I have been given the opportunity to lead our cybersecurity initiative. As part of our partnership with a number of 3rd parties and our planned expansion into Europe, the need to tighten security and bring our technology up to certain compliance standards has become evident. It is my job to bring us into alignment with these, as well as hardening our security stance as a whole."
+      },
+      {
+        "company": "City of Fort St. John",
+        "title": "Utility Maintenance Technician 1 / Labourer ",
+        "years": "April 2014 - September 2017",
+        "description": "Working for the City of Fort St. John has given me a solid understanding of a city's infrastructure system and what it takes to keep the things working that we take for granted every day. During my time here I have worked in all roles involved in the Water and Sewer Department, with the exception of equipment operating. I worked as a water meter technician programming the meters in people's homes. I worked in location, excavation, installation and repair of water and sewer lines. I learned how to install, dismantle, troubleshoot, and repair the most popular models of fire hydrants. \n\nWhile working for the Water Treatment and Distribution Department, and alongside one partner, we led the first Uni-Directional Flow program our city has done in years. This requires a thorough understanding of the city's water grid to selectively force excessive pressure through a water line in order to clean it. This must be done in a specific order for every line in the city.   "
+      },
+      {
+        "company": "School District 60",
+        "title": "IT Technician",
+        "years": "April 2012 - September 2013",
+        "description": "Here I was in charge of various duties involved in keeping the school district's computer systems running smoothly. I performed a varied range of tasks including, but not limited to, reimaging the laptops that the students were given, setting up computer labs, setting up and troubleshooting servers, secure discarding of sensitive data, and a small amount of network analysis."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "image": "git.jpg"
+      },
+      {
+        "name": "Java",
+        "description": "Java was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
+        "image": "java.jpg"
+      },
+      {
+        "name": "React Js",
+        "description": "I am fairly new to React and really did not like it at first. It has grown on me though and I will continue to use it going forward. I have built a ReactJS based resume-website template (link below in portfolio) which I used as a starting point for this personal site.",
+        "image": "react.jpg"
+      },
+      {
+        "name": "Meteor JS",
+        "description": "I enjoy MeteorJS for it's ease of configuration and its ability to get a full stack prototype up and running quickly. I used MeteorJS in a team for a Startup Programming class in UVIC in conjunction with React to build the MVP for Smirkspace (below in portfolio)",
+        "image": "meteor.jpg"
+      },
+      {
+        "name": "Node JS",
+        "description": "Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
+        "image": "node.jpg"
+      },
+      {
+        "name": "Bootstrap 4",
+        "description": "I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
+        "image": "bootstrap.jpg"
+      },
+      {
+        "name": "MongoDB",
+        "description": "I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of MongoDB better suits my needs and it is much more enjoyable to work with",
+        "image": "mongo.jpg"
+      },
+      {
+        "name": "Heroku",
+        "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image": "heroku.jpg"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "1.jpeg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "2.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "3.jpg",
+        "url": "https://original-thai-food.herokuapp.com/index.html"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "4.jpeg",
+        "url": "https://github.com/tbakerx/react-resume-template"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "5.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "6.jpeg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "11.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "7.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "8.jpeg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "9.jpeg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "10.jpeg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "12.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Exuding sincerity and warmth, their loyalty and empathy make them an ideal partner for life's adventures.",
+        "user": "Milin Chhipavadiya"
+      }
+    ]
+  }
+}
