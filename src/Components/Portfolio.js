@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-
 class Portfolio extends Component {
   render() {
 
@@ -8,8 +7,8 @@ class Portfolio extends Component {
         var projectImage = 'images/portfolio/'+projects.image;
         return <div key={projects.title + index} className="columns portfolio-item">
            <div className="item-wrap">
-            <a href={projectImage} target="_blank">
-               <img alt={projects.title} src={projectImage} />
+            <a href="https://drive.google.com/drive/folders/1mLfMD6xbyEpk0RqGceSfhM6kOV__d6xw?usp=sharing" >
+               <img alt="milin chhipavadiya Profile Pic" src={projectImage}  />
                <div className="overlay">
                   <div className="portfolio-item-meta">
                  {/* <h5>{projects.title}</h5>

@@ -26,7 +26,7 @@ class About extends Component {
          <section id="about">
             <div className="row">
                <div className="three columns">
-                  <img className="profile-pic" src={profilepic} alt="Tim Baker Profile Pic" />
+                  <img className="profile-pic" src={profilepic} alt="milin chhipavadiya Profile Pic" />
                </div>
                <div className="nine columns main-col">
                   <h2>About Me</h2>
@@ -56,7 +56,7 @@ class About extends Component {
                         <td>5'8"</td>
                      </tr>
                      <tr>
-                        <td>BloodGroup</td>
+                        <td>Blood Group</td>
                         <td style={cssForTable} >:-</td>
                         <td>O Positive</td>
                      </tr>
