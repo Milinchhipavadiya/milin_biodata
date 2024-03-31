@@ -18,9 +18,22 @@ class About extends Component {
          var email = this.props.data.email;
          var resumeDownload = this.props.data.resumedownload;
       }
-      var today = new Date()
+      // var today = new Date()
    
-      var year = today.getFullYear() - 1999; 
+      // var year = today.getFullYear() - 1999; 
+
+      var today = new Date();
+      var birthDate = new Date('1999-11-29T09:09:00'); // Assuming the birth date is January 1, 1999
+      var ageInMilliseconds = today - birthDate;
+      var years = Math.floor(ageInMilliseconds / (1000 * 60 * 60 * 24 * 365.25));
+      var months = Math.floor((ageInMilliseconds % (1000 * 60 * 60 * 24 * 365.25)) / (1000 * 60 * 60 * 24 * (365.25 / 12)));
+      var days = Math.floor((ageInMilliseconds % (1000 * 60 * 60 * 24 * (365.25 / 12))) / (1000 * 60 * 60 * 24));
+      var hours = Math.floor((ageInMilliseconds % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      var minutes = Math.floor((ageInMilliseconds % (1000 * 60 * 60)) / (1000 * 60));
+      var seconds = Math.floor((ageInMilliseconds % (1000 * 60)) / 1000);
+  
+      var ageString = years + " years, " + months + " months, " + days + " days, " + hours + " hours, " + minutes + " minutes, " + seconds + " seconds";
+ 
     
       return (
          <section id="about">
@@ -48,7 +61,7 @@ class About extends Component {
                      <tr>
                         <td>Age</td>
                         <td style={cssForTable} >:-</td>
-                        <td>{year} year</td>
+                        <td>{ageString}</td>
                      </tr>
                      <tr>
                         <td>Height</td>
